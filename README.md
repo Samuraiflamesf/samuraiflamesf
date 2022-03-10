@@ -1,6 +1,11 @@
-<h2 dir="auto">Welcome to my profile. <g-emoji class="g-emoji" alias="balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f388.png">🎈</g-emoji></h2>
+<h2 dir="auto">Bem vindo ao meu canal <g-emoji class="g-emoji" alias="balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f388.png">🎈</g-emoji></h2>
 
-
+<div dir="auto">
+<g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji>Front-end developer<br>
+<g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png">📖</g-emoji>Currently studying html CSS and Python<br>
+<g-emoji class="g-emoji" alias="cityscape" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3d9.png">🏙️</g-emoji>Studying Interior Design (UEMA)<br>
+<g-emoji class="g-emoji" alias="new_moon_with_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31a.png">🌚</g-emoji>Bacabal - MA (Brazil) <br> 
+</div>
  <div styles="flex-direction: column;
     align-items: center;"  >
   <a href="https://github.com/samuraiflamesf">
