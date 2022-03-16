@@ -1,6 +1,6 @@
 <h2 align="center"> Hello Word! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Bem vindo ao Meu Perfil</h2>
    <h3 align="center">𝚃-𝚂𝚑𝚊𝚙𝚎𝚍 𝙳𝙴𝚅<br/>
-      Gastrólogo | Graduando Lic. Matemática | Formando Análise de Sistemas | Tec. Informática</h3>
+      Gastrólogo | Graduando Lic. Matemática | Tec. Informática</h3>
 <h4 align="center"><details><summary><b>
    ⚡Sobre mim⚡</b></summary>
    <p align="center">Atualmente curso 𝐋𝐢𝐜𝐞𝐧𝐜𝐢𝐚𝐭𝐮𝐫𝐚 𝐞𝐦 𝐌𝐚𝐭𝐞𝐦𝐚𝐭𝐢𝐜𝐚 no 𝗜𝗙𝗕𝗔(𝘐𝘯𝘴𝘵𝘪𝘵𝘶𝘵𝘰 𝘍𝘦𝘥𝘦𝘳𝘢𝘭 𝘥𝘢 𝘉𝘢𝘩𝘪𝘢) e 𝗔𝗻𝗮𝗹𝗶𝘀𝗲 𝗲 𝗗𝗲𝘀𝗲𝗻𝘃𝗼𝗹𝘃𝗶𝗺𝗲𝗻𝘁𝗼 𝗱𝗲 𝗦𝗶𝘀𝘁𝗲𝗺𝗮𝘀 pela 𝗨𝗡𝗜𝗙𝗔𝗧𝗘𝗖𝗜𝗘. Possuo nível superior em 𝗚𝗮𝘀𝘁𝗿𝗼𝗻𝗼𝗺𝗶𝗮 pela 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝗱𝗮𝗱𝗲 𝗦𝗮𝗹𝘃𝗮𝗱𝗼𝗿 e curso técnico em 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐜𝐚 pela 𝗖𝗘𝗘𝗣 𝗜𝗦𝗔𝗜𝗔𝗦 𝗔𝗟𝗩𝗘𝗦. Possuo experiência profissional na área de informática, busca recolocação no mercado de trabalho, onde busco atuar na área de desenvolvimento de sistemas. Em constante atualização com cursos na área de programação(𝘗𝘳𝘰𝘨𝘳𝘢𝘮𝘢𝘥𝘰𝘳𝘉𝘳,𝘙𝘰𝘤𝘬𝘦𝘵𝘴𝘦𝘢𝘵 𝘦 𝘉7𝘞𝘦𝘣), acredito que meu trabalho trara benefícios aos negociosos da empresa.</p></details>
