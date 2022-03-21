@@ -23,8 +23,9 @@ Tecnologias e Ferramentas</h2>
  <div align="center" >
  <h2 align="center">GitHub Status</h2>
   <a href="https://github.com/samuraiflamesf">
-  <img height="200em" w src="https://github-readme-stats.vercel.app/api?username=samuraiflamesf&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
    <img height="200cm"src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuraiflamesf&langs_count=8&theme=midnight-purple"/>
+  <img height="200em" w src="https://github-readme-stats.vercel.app/api?username=samuraiflamesf&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+   
    </div>
 <h2 align="center">Minhas Redes Sociais!</h2>
 <div align="center"> 
