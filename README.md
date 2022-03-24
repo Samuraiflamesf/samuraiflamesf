@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://github.com/Samuraiflamesf/gif_emoji_icons/blob/main/_gif/globe.gif?raw=true" width="30px"> Hello Word! <img src="https://github.com/Samuraiflamesf/gif_emoji_icons/blob/main/_gif/Hi.gif?raw=true" width="30px"> Bem vindo ao Meu Perfil</h2>
+<h2 align="center"><img src="https://github.com/Samuraiflamesf/gif_emoji_icons/blob/main/_gif/globe.gif?raw=true" width="30px"> Hello Word!<br> <img src="https://github.com/Samuraiflamesf/gif_emoji_icons/blob/main/_gif/Hi.gif?raw=true" width="30px"> Bem vindo ao Meu Perfil</h2>
      <h3 align="center">𝚃-𝚂𝚑𝚊𝚙𝚎𝚍 𝙳𝙴𝚅<br/>
       Gastrólogo | Graduando Lic. Matemática | Tec. Informática</h3>
 <h4 align="center"><details><summary><b>
