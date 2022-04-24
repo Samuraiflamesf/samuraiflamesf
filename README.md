@@ -1,6 +1,6 @@
 <h2 align="center"><img src="https://github.com/Samuraiflamesf/samuraiflamesf/blob/main/_gif/globe.gif?raw=true" width="30px"> Hello Word! <img src="https://github.com/Samuraiflamesf/samuraiflamesf/blob/main/_gif/globe.gif?raw=true" width="30px"><br> <img src="https://github.com/Samuraiflamesf/samuraiflamesf/blob/main/_gif/Hi.gif?raw=true" width="30px"> Bem vindo ao Meu Perfil <img src="https://github.com/Samuraiflamesf/samuraiflamesf/blob/main/_gif/Hi.gif?raw=true" width="30px"></h2>
      <h3 align="center">𝚃-𝚂𝚑𝚊𝚙𝚎𝚍 𝙳𝙴𝚅<br/>
-      Gastrólogo | Graduando Lic. Matemática | Tec. Informática</h3>
+      Graduando ADS | Graduando Lic. Matemática | Gastrólogo | Tec. Informática</h3>
 <h4 align="center"><details><summary><b>
    ⚡Sobre mim⚡</b></summary>
    <p align="center">Reconheço-me como entusiasta em novas tecnologias do mercado, com aprendizado adquirido dia após dia. Sou constante e gosto de estar sempre em movimento, estagnar é de longe um objetivo profissional ou pessoal, amo aprender, amo entender, gosto de sentir evoluindo independente do ritmo. Sou focado, determinado, sei o que quero e onde quero chegar, toda a minha trajetória profissional embora em área diferente da programação me ajudou a forjar quem eu sou, entender que conhecimento é vasto e tenho muito a aprender, onde a melhor maneira de avançar é dando o meu melhor.<br>
