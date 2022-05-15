@@ -10,7 +10,9 @@
 <h3 align="center">
 𝚃-𝚂𝚑𝚊𝚙𝚎𝚍 𝙳𝙴𝚅<br/>ADS | Lic. Matemática | Gastrólogo | Tec. Informática
 </h3>
-<details align="center"><summary align="center"><h3 align="center">
+<div>
+     <div>
+     <details align="center"><summary align="center"><h3 align="center">
      ⚡Sobre mim⚡
 </h3></summary>
    <p align="center">Reconheço-me como entusiasta em novas tecnologias do mercado, com aprendizado adquirido dia após dia. Sou constante e gosto de estar sempre em movimento, estagnar é de longe um objetivo profissional ou pessoal, amo aprender, amo entender, gosto de sentir evoluindo independente do ritmo. Sou focado, determinado, sei o que quero e onde quero chegar, toda a minha trajetória profissional embora em área diferente da programação me ajudou a forjar quem eu sou, entender que conhecimento é vasto e tenho muito a aprender, onde a melhor maneira de avançar é dando o meu melhor.</p>
@@ -25,6 +27,11 @@
           <b>RAM:</b> 32Gb DDR4</br>
            <b>GPU:</b> RX 560</br>       
     </details>
+    </div>
+<div>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuraiflamesf&langs_count=8&theme=midnight-purple"/>
+</div>
+</div>
 <div align="center" dir="auto">
    <h2 align="center">
 Tecnologias e Ferramentas</h2> 
@@ -39,8 +46,8 @@ Tecnologias e Ferramentas</h2>
  <div align="center" >
  <h2 align="center">GitHub Status</h2>
   <a href="https://github.com/samuraiflamesf">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuraiflamesf&langs_count=8&theme=midnight-purple"/>
-  
+
+  <img src="https://github-readme-stats.vercel.app/api?username=samuraiflamesf&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
    
    </div>
 <h2 align="center">Minhas Redes Sociais!</h2>
