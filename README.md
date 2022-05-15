@@ -1,15 +1,30 @@
-<h2 align="center"><img src="https://github.com/Samuraiflamesf/samuraiflamesf/blob/main/_gif/globe.gif?raw=true" width="30px"> Hello Word! <img src="https://github.com/Samuraiflamesf/samuraiflamesf/blob/main/_gif/globe.gif?raw=true" width="30px"><br> <img src="https://github.com/Samuraiflamesf/samuraiflamesf/blob/main/_gif/Hi.gif?raw=true" width="30px"> Bem vindo ao Meu Perfil <img src="https://github.com/Samuraiflamesf/samuraiflamesf/blob/main/_gif/Hi.gif?raw=true" width="30px"></h2>
-     <h3 align="center">𝚃-𝚂𝚑𝚊𝚙𝚎𝚍 𝙳𝙴𝚅<br/>
-      Graduando ADS | Graduando Lic. Matemática | Gastrólogo | Tec. Informática</h3>
-<h4 align="center"><details><summary><b>
-   ⚡Sobre mim⚡</b></summary>
-   <p align="center">Reconheço-me como entusiasta em novas tecnologias do mercado, com aprendizado adquirido dia após dia. Sou constante e gosto de estar sempre em movimento, estagnar é de longe um objetivo profissional ou pessoal, amo aprender, amo entender, gosto de sentir evoluindo independente do ritmo. Sou focado, determinado, sei o que quero e onde quero chegar, toda a minha trajetória profissional embora em área diferente da programação me ajudou a forjar quem eu sou, entender que conhecimento é vasto e tenho muito a aprender, onde a melhor maneira de avançar é dando o meu melhor.<br>
- Atualmente curso ADS na, em paralelo Licenciatura em Matematica no IFBA. Possuo nível superior em Gastronomia pela UNIFACS e curso técnico em Informatica pela CEEP ISAIAS ALVES. Possuo experiência profissional na área de informática, busca recolocação no mercado de trabalho, onde busco atuar na área de desenvolvimento de sistemas. Em constante atualização com cursos na área de programação(Rocketseat e B7Web), acredito que meu trabalho trara benefícios aos negociosos da empresa.</p></details>
-<details><summary><b>🖥️Workstation🖥️</b></summary><ul>
-   <b>SO:</b> Dual Boot(Windows 10 & Ubuntu)</br>
-   <b>Code Editor:</b> VSCode.</br>
-   <b>PC:</b> E5-2640v3 + 32Gb + RX 560</br>
-    </details></h4>
+<h2 align="center"><img src="https://github.com/Samuraiflamesf/samuraiflamesf/blob/main/_gif/globe.gif?raw=true" width="30px"> 
+     Hello Word! 
+          <img src="https://github.com/Samuraiflamesf/samuraiflamesf/blob/main/_gif/globe.gif?raw=true" width="30px">
+     <br> 
+<img src="https://github.com/Samuraiflamesf/samuraiflamesf/blob/main/_gif/Hi.gif?raw=true" width="30px"> 
+     Bem vindo ao Meu Perfil 
+<img src="https://github.com/Samuraiflamesf/samuraiflamesf/blob/main/_gif/Hi.gif?raw=true" width="30px">
+</h2>
+
+<h3 align="center">
+𝚃-𝚂𝚑𝚊𝚙𝚎𝚍 𝙳𝙴𝚅<br/>ADS | Lic. Matemática | Gastrólogo | Tec. Informática
+</h3>
+<details align="center"><summary align="center"><h3 align="center">
+     ⚡Sobre mim⚡
+</h3></summary>
+   <p align="center">Reconheço-me como entusiasta em novas tecnologias do mercado, com aprendizado adquirido dia após dia. Sou constante e gosto de estar sempre em movimento, estagnar é de longe um objetivo profissional ou pessoal, amo aprender, amo entender, gosto de sentir evoluindo independente do ritmo. Sou focado, determinado, sei o que quero e onde quero chegar, toda a minha trajetória profissional embora em área diferente da programação me ajudou a forjar quem eu sou, entender que conhecimento é vasto e tenho muito a aprender, onde a melhor maneira de avançar é dando o meu melhor.</p>
+ Atualmente curso ADS na, em paralelo Licenciatura em Matematica no IFBA. Possuo nível superior em Gastronomia pela UNIFACS e curso técnico em Informatica pela CEEP ISAIAS ALVES. Possuo experiência profissional na área de informática, busca recolocação no mercado de trabalho, onde busco atuar na área de desenvolvimento de sistemas. Em constante atualização com cursos na área de programação(Rocketseat e B7Web), acredito que meu trabalho trara benefícios aos negociosos da empresa.</details>
+<details align="center"><summary align="center"><h3 align="center">
+     🖥️Workstation🖥️
+</h3></summary>    
+    <ul>
+      <b>SO:</b> Dual Boot(Windows 10 & Ubuntu)</br>
+       <b>Code Editor:</b> VSCode.</br>
+         <b>CPU:</b> E5-2640v3</br>
+          <b>RAM:</b> 32Gb DDR4</br>
+           <b>GPU:</b> RX 560</br>       
+    </details>
 <div align="center" dir="auto">
    <h2 align="center">
 Tecnologias e Ferramentas</h2> 
@@ -24,8 +39,8 @@ Tecnologias e Ferramentas</h2>
  <div align="center" >
  <h2 align="center">GitHub Status</h2>
   <a href="https://github.com/samuraiflamesf">
-   <img height="200px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuraiflamesf&langs_count=8&theme=midnight-purple"/>
-  <img height="200px" w src="https://github-readme-stats.vercel.app/api?username=samuraiflamesf&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuraiflamesf&langs_count=8&theme=midnight-purple"/>
+  
    
    </div>
 <h2 align="center">Minhas Redes Sociais!</h2>
