@@ -1,6 +1,6 @@
 <h2 align="center"><img src="https://github.com/Samuraiflamesf/samuraiflamesf/blob/main/_gif/globe.gif?raw=true" width="30px"> 
           Hello Word! 
-               <img src="https://github.com/Samuraiflamesf/samuraiflamesf/blob/main/_gif/globe.gif?raw=true" width="30px"><br>
+               <img src="https://github.com/Samuraiflamesf/samuraiflamesf/blob/main/_gif/globe.gif?raw=true" width="32px"><br>
                <img src="https://github.com/Samuraiflamesf/samuraiflamesf/blob/main/_gif/Hi.gif?raw=true" width="30px"> 
           Bem vindo ao Meu Perfil 
                <img src="https://github.com/Samuraiflamesf/samuraiflamesf/blob/main/_gif/Hi.gif?raw=true" width="30px"><br>
