@@ -1,12 +1,20 @@
 <div align="center" class="titulo">
     <h2 align="center">
+        <!--
         <img src="https://github.com/Samuraiflamesf/samuraiflamesf/blob/main/_gif/globe.gif?raw=true" width="30px"> 
+    -->
         Hello Word! 
-        <img src="https://github.com/Samuraiflamesf/samuraiflamesf/blob/main/_gif/globe.gif?raw=true" width="30px">
+        <!--
+            <img src="https://github.com/Samuraiflamesf/samuraiflamesf/blob/main/_gif/globe.gif?raw=true" width="30px">
+        -->
         <br>
-        <img src="https://github.com/Samuraiflamesf/samuraiflamesf/blob/main/_gif/Hi.gif?raw=true" width="30px"> 
+        <!--
+            <img src="https://github.com/Samuraiflamesf/samuraiflamesf/blob/main/_gif/Hi.gif?raw=true" width="30px"> 
+        -->
         Bem vindo ao Meu Perfil 
-        <img src="https://github.com/Samuraiflamesf/samuraiflamesf/blob/main/_gif/Hi.gif?raw=true" width="30px">
+        <!--
+            <img src="https://github.com/Samuraiflamesf/samuraiflamesf/blob/main/_gif/Hi.gif?raw=true" width="30px">
+        -->
         <br>
     </h2>
 </div>
@@ -57,8 +65,6 @@
     <img height= 380px  src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuraiflamesf&langs_count=8&theme=midnight-purple"/>
     <img height= 380px src="https://github.com/Samuraiflamesf/samuraiflamesf/blob/main/_gif/gif.gif?raw=true"/>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=samuraiflamesf&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-
 </div>
 <div align="center" class="midias">
     <h2 align="center">Minhas Redes Sociais!</h2>
