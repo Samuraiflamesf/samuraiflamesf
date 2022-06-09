@@ -1,44 +1,31 @@
 <div align="center" class="titulo">
-    <h2 align="center">
-        <!--
-        <img src="https://github.com/Samuraiflamesf/samuraiflamesf/blob/main/_gif/globe.gif?raw=true" width="30px"> 
-    -->
-        Hello Word! 
-        <!--
-            <img src="https://github.com/Samuraiflamesf/samuraiflamesf/blob/main/_gif/globe.gif?raw=true" width="30px">
-        -->
+    <h2>
+        Bernardo Nogueira
         <br>
-        <!--
-            <img src="https://github.com/Samuraiflamesf/samuraiflamesf/blob/main/_gif/Hi.gif?raw=true" width="30px"> 
-        -->
-        Bem vindo ao Meu Perfil 
-        <!--
-            <img src="https://github.com/Samuraiflamesf/samuraiflamesf/blob/main/_gif/Hi.gif?raw=true" width="30px">
-        -->
+        FrontEnd DEV
         <br>
-    </h2>
-</div>
-<div align="center" class="descri">
-    <h3 align="center">
-        𝚃-𝚂𝚑𝚊𝚙𝚎𝚍 𝙳𝙴𝚅<br/>
         ADS | Lic. Matemática | Gastrólogo | Tec. Informática
-    </h3>
+ </h2>
+    <div align="left" >
+        <h4>📣 Quer entrar em contato comigo?</h4>
+        <a href="https://www.youtube.com/channel/UCqcrZPdAU0NOdqJu4OAyt9A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+        <a href = "mailto:samuraiflamesf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+        <a href="https://www.linkedin.com/in/bernardo-nogueira-da-silva-0755431a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+        <a href="https://steamcommunity.com/id/SamuraiFlameSF" target="_blank"><img src="hhttps://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>         
+    </div>
+</div>
+
+<div align="Left" class="descri">
+    <h1>Sobre Mim 💬</h1>
+    <h4>Eu sou Brasileiro e almejo me tornar um Full Stack/T Shaped.</h4>
     <div class="details">
-        <details align="center">
-            <summary align="center"><h3 align="center">⚡Sobre mim⚡
+        <details>
+            <summary><h3>⚡My Life⚡
             </h3></summary>
-            <p align="center">Reconheço-me como entusiasta em novas tecnologias do mercado, com aprendizado adquirido dia após dia.
-            Sou constante e gosto de estar sempre em movimento, estagnar é de longe um objetivo profissional ou pessoal, amo aprender,
-            amo entender, gosto de sentir evoluindo independente do ritmo. Sou focado, determinado, sei o que quero e onde quero chegar,
-            toda a minha trajetória profissional embora em área diferente da programação me ajudou a forjar quem eu sou, entender que conh
-            ecimento é vasto e tenho muito a aprender, onde a melhor maneira de avançar é dando o meu melhor.  
-            Atualmente curso ADS na, em paralelo Licenciatura em Matematica no IFBA. Possuo nível superior em Gastronomia pela UNIFACS e 
-            curso técnico em Informatica pela CEEP ISAIAS ALVES. Possuo experiência profissional na área de informática, busca recolocação 
-            no mercado de trabalho, onde busco atuar na área de desenvolvimento de sistemas. Em constante atualização com cursos na área de 
-            programação(Rocketseat e B7Web), acredito que meu trabalho trara benefícios aos negociosos da empresa.</p>
+            <p>Reconheço-me como entusiasta em novas tecnologias do mercado, com aprendizado adquirido dia após dia. Sou constante e gosto de estar sempre em movimento, estagnar é de longe um objetivo profissional ou pessoal, amo aprender, amo entender, gosto de sentir evoluindo independente do ritmo. Sou focado, determinado, sei o que quero e onde quero chegar, toda a minha trajetória profissional embora em área diferente da programação me ajudou a forjar quem eu sou, entender que conhecimento é vasto e tenho muito a aprender, onde a melhor maneira de avançar é dando o meu melhor.Atualmente curso ADS na, em paralelo Licenciatura em Matematica no IFBA. Possuo nível superior em Gastronomia pela UNIFACS e curso técnico em Informatica pela CEEP ISAIAS ALVES. Possuo experiência profissional na área de informática, busca recolocação no mercado de trabalho, onde busco atuar na área de desenvolvimento de sistemas. Em constante atualização com cursos na área de programação(Rocketseat e B7Web), acredito que meu trabalho trara benefícios aos negociosos da empresa.</p>
         </details>
-        <details align="center">
-            <summary align="center"><h3 align="center">🖥️Workstation🖥️
+        <details >
+            <summary ><h3 >🖥️Workstation🖥️
             </h3></summary>    
         <ul>
             <b>SO:</b> Dual Boot(Windows 10 & Ubuntu)</br>
@@ -46,32 +33,39 @@
             <b>CPU:</b> E5-2640v3</br>
             <b>RAM:</b> 32Gb DDR4</br>
             <b>GPU:</b> RX 560</br>
-        </ul>       
-        </details>
-    </div>
+        </ul>      
 
 </div>
-<div align="center" class="lings">
-    <h2 align="center">
+<div align="left" class="lings">
+    <h2 align="left">
     Tecnologias e Ferramentas
     </h2> 
     <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"><img align="center" alt="HTML" src="https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></a>
     <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"><img align="center" alt="CSS" src="https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;"></a>
     <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/9d07c04bdd98c662d5df9d4e1cc1de8446ffeaebca330feb161f1fb8e1188204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b"><img align="center" alt="Js" src="https://camo.githubusercontent.com/9d07c04bdd98c662d5df9d4e1cc1de8446ffeaebca330feb161f1fb8e1188204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" style="max-width: 100%;"></a>
+         </details>
+    <details align="left">
+    <summary><h3>⚡Ultimos Proejtos Finalizados⚡
+    </h3></summary>
+
+| Projetos | Link da Aplicação  | Tecnologias usadas|  
+| ------------------- | ------------------- | ------------------- |
+| <a href="https://github.com/Samuraiflamesf/Landing_page">Landing Page</a> | <a href="https://landingpageflamebox.netlify.app/">Teste</a> | HTML/CSS/JS | 
+| <a href="https://github.com/Samuraiflamesf/Calculadora_HTML_Css_Js">Calculadora em JS</a> | <a href="https://calculadoraflamebox.netlify.app/">Teste</a>  | HTML/CSS/JS |
+| <a href="https://github.com/Samuraiflamesf/Page_Login01">Pagina de Login</a> | <a href="https://loginpageflamebox.netlify.app/">Teste</a> |HTML/CSS/JS |
+
+</details>
 </div>
+  <div class="tabelas">
+       
+
+
+
+
 <div align="center" class="status">
     <h2 align="center">GitHub Status</h2>
     <a href="https://github.com/samuraiflamesf">
     <img height= 380px  src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuraiflamesf&langs_count=8&theme=midnight-purple"/>
     <img height= 380px src="https://github.com/Samuraiflamesf/samuraiflamesf/blob/main/_gif/gif.gif?raw=true"/>
     <br>
-</div>
-<div align="center" class="midias">
-    <h2 align="center">Minhas Redes Sociais!</h2>
-    <div align="center"> 
-        <a href="https://www.youtube.com/channel/UCqcrZPdAU0NOdqJu4OAyt9A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-        <a href = "mailto:samuraiflamesf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-        <a href="https://www.linkedin.com/in/bernardo-nogueira-da-silva-0755431a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-        <a href="https://steamcommunity.com/id/SamuraiFlameSF" target="_blank"><img src="hhttps://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
-    </div>
-</div>
+        </div>
