@@ -6,7 +6,7 @@
         <br>
         ADS | Lic. Matemática | Gastrólogo | Tec. Informática
  </h2>
-    <div align="left" >
+    <div >
         <h4>📣 Quer entrar em contato comigo?</h4>
         <a href="https://www.youtube.com/channel/UCqcrZPdAU0NOdqJu4OAyt9A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
         <a href = "mailto:samuraiflamesf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
