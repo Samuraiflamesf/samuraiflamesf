@@ -1,11 +1,7 @@
-<div align="center" class="titulo">
-    <h2>
-        Bernardo Nogueira
-        <br>
-        FrontEnd DEV
-        <br>
-        ADS | Lic. Matemática | Gastrólogo | Tec. Informática
- </h2>
+<div class="titulo">
+<h2>
+    Hello, Sou Bernardo Nogueira!
+</h2>
     <div >
         <h4>📣 Quer entrar em contato comigo?</h4>
         <a href="https://www.youtube.com/channel/UCqcrZPdAU0NOdqJu4OAyt9A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -56,16 +52,9 @@
 
 </details>
 </div>
-  <div class="tabelas">
-       
 
+<div class="status">
+<h2 >GitHub Status</h2>
+<a href="https://github.com/samuraiflamesf"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=samuraiflamesf&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- ADO --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuraiflamesf&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
-
-
-<div align="center" class="status">
-    <h2 align="center">GitHub Status</h2>
-    <a href="https://github.com/samuraiflamesf">
-    <img height= 380px  src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuraiflamesf&langs_count=8&theme=midnight-purple"/>
-    <img height= 380px src="https://github.com/Samuraiflamesf/samuraiflamesf/blob/main/_gif/gif.gif?raw=true"/>
-    <br>
-        </div>
+</div>
