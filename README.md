@@ -40,16 +40,17 @@
     <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"><img align="center" alt="CSS" src="https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;"></a>
     <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/9d07c04bdd98c662d5df9d4e1cc1de8446ffeaebca330feb161f1fb8e1188204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b"><img align="center" alt="Js" src="https://camo.githubusercontent.com/9d07c04bdd98c662d5df9d4e1cc1de8446ffeaebca330feb161f1fb8e1188204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" style="max-width: 100%;"></a>
          </details>
-    <details align="left">
+    <details>
     <summary><h3>⚡Ultimos Proejtos Finalizados⚡
     </h3></summary>
-
+    
 | Projetos | Link da Aplicação  | Tecnologias usadas|  
 | ------------------- | ------------------- | ------------------- |
-| <a href="https://github.com/Samuraiflamesf/Landing_page">Landing Page</a> | <a href="https://landingpageflamebox.netlify.app/">Teste</a> | HTML/CSS/JS | 
+| <a href="https://github.com/Samuraiflamesf/Pokedex_MapaWeek">Pokedex</a> | <a href="https://flameboxpokedex.netlify.app/">Teste</a> | HTML/CSS/JS | 
+| <a href="https://github.com/Samuraiflamesf/Landing_page">Landing Page 01</a> | <a href="https://landingpageflamebox.netlify.app/">Teste</a> | HTML/CSS/JS | 
 | <a href="https://github.com/Samuraiflamesf/Calculadora_HTML_Css_Js">Calculadora em JS</a> | <a href="https://calculadoraflamebox.netlify.app/">Teste</a>  | HTML/CSS/JS |
-| <a href="https://github.com/Samuraiflamesf/Page_Login01">Pagina de Login</a> | <a href="https://loginpageflamebox.netlify.app/">Teste</a> |HTML/CSS/JS |
-
+| <a href="https://github.com/Samuraiflamesf/Page_Login01">Pagina de Login 01</a> | <a href="https://loginpageflamebox.netlify.app/">Teste</a> |HTML/CSS/JS |
+    
 </details>
 </div>
 
