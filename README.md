@@ -41,10 +41,14 @@ Reconheço-me como entusiasta em novas tecnologias do mercado, com aprendizado a
     
 | Projetos | Link da Aplicação  | Tecnologias usadas|  
 | ------------------- | ------------------- | ------------------- |
-| <a href="https://github.com/Samuraiflamesf/Pokedex_MapaWeek">Pokedex</a> | <a href="https://flameboxpokedex.netlify.app/">Teste</a> | HTML/CSS/JS | 
-| <a href="https://github.com/Samuraiflamesf/Landing_page">Landing Page 01</a> | <a href="https://landingpageflamebox.netlify.app/">Teste</a> | HTML/CSS/JS | 
-| <a href="https://github.com/Samuraiflamesf/Calculadora_HTML_Css_Js">Calculadora em JS</a> | <a href="https://calculadoraflamebox.netlify.app/">Teste</a>  | HTML/CSS/JS |
+| <a href="https://github.com/Samuraiflamesf/Lading_Page02">Landing Page 02</a> | <a href="https://medicenterflamebox.netlify.app/">Teste</a> |HTML/CSS/JS |
 | <a href="https://github.com/Samuraiflamesf/Page_Login01">Pagina de Login 01</a> | <a href="https://loginpageflamebox.netlify.app/">Teste</a> |HTML/CSS/JS |
+| <a href="https://github.com/Samuraiflamesf/Calculadora_HTML_Css_Js">Calculadora em JS</a> | <a href="https://calculadoraflamebox.netlify.app/">Teste</a>  | HTML/CSS/JS |
+| <a href="https://github.com/Samuraiflamesf/Landing_page">Landing Page 01</a> | <a href="https://landingpageflamebox.netlify.app/">Teste</a> | HTML/CSS/JS | 
+| <a href="https://github.com/Samuraiflamesf/Pokedex_MapaWeek">Pokedex</a> | <a href="https://flameboxpokedex.netlify.app/">Teste</a> | HTML/CSS/JS | 
+
+
+
     
 </details>
 
