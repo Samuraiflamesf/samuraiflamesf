@@ -24,7 +24,7 @@ Reconheço-me como entusiasta em novas tecnologias do mercado, com aprendizado a
             <b>Code Editor:</b> VSCode.</br>
             <b>CPU:</b> E5-2640v3</br>
             <b>RAM:</b> 32Gb DDR4</br>
-            <b>GPU:</b> RX 560</br>
+            <b>GPU:</b> GTX 1070 8Gb</br>
         </ul>
 </details>
 
