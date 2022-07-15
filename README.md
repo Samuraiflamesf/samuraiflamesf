@@ -42,6 +42,8 @@ Reconheço-me como entusiasta em novas tecnologias do mercado, com aprendizado a
     
 | Projetos | Link da Aplicação  | Tecnologias usadas|  
 | ------------------- | ------------------- | ------------------- |
+| <a href="https://github.com/Samuraiflamesf/LadingPage03-Starbucks">Landing Page 03 - Starbucks </a> | <a href="https://starbucksflamebox.netlify.app/">Teste</a> |HTML/CSS/JS |
+| <a href="https://github.com/Samuraiflamesf/Clone_Linktree">Clone Linktree</a>  | <a href="https://bernardonogueira8.netlify.app/">Teste</a> |HTML/CSS/JS |
 | <a href="https://github.com/Samuraiflamesf/Lading_Page02">Landing Page 02</a> | <a href="https://medicenterflamebox.netlify.app/">Teste</a> |HTML/CSS/JS |
 | <a href="https://github.com/Samuraiflamesf/Page_Login01">Pagina de Login 01</a> | <a href="https://loginpageflamebox.netlify.app/">Teste</a> |HTML/CSS/JS |
 | <a href="https://github.com/Samuraiflamesf/Calculadora_HTML_Css_Js">Calculadora em JS</a> | <a href="https://calculadoraflamebox.netlify.app/">Teste</a>  | HTML/CSS/JS |
