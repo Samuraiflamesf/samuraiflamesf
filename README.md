@@ -38,7 +38,8 @@ Reconheço-me como entusiasta em novas tecnologias do mercado, com aprendizado a
 
 <details>
     <summary><h3>
-     ⚡Ultimos Proejtos Finalizados⚡</h3></summary> 
+     ⚡Proejtos Html/Css/Js⚡
+     </h3></summary> 
     
 | Projetos | Link da Aplicação  | Tecnologias usadas|  
 | ------------------- | ------------------- | ------------------- |
