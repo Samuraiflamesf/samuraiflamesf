@@ -32,13 +32,29 @@ Reconheço-me como entusiasta em novas tecnologias do mercado, com aprendizado a
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript Badge](https://camo.githubusercontent.com/9d07c04bdd98c662d5df9d4e1cc1de8446ffeaebca330feb161f1fb8e1188204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b)
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Pandas Badge](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Arduino Badge](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![VSCode Badge](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 <details>
     <summary><h3>
-     ⚡Proejtos Html/Css/Js⚡
+     ⚡Projetos BootStrap 5⚡
+     </h3></summary> 
+    
+| Projetos | Link da Aplicação  | Tecnologias usadas|  
+| ------------------- | ------------------- | ------------------- |
+| <a href="https://github.com/Samuraiflamesf/Page_Cadastro01">Pagina de Cadastro - FlameBox </a> | <a href="https://singinpageflamebox.netlify.app/">Teste</a> |HTML/CSS/JS |
+
+
+
+    
+</details>
+
+<details>
+    <summary><h3>
+     ⚡Projetos Html/Css/Js⚡
      </h3></summary> 
     
 | Projetos | Link da Aplicação  | Tecnologias usadas|  
@@ -46,7 +62,7 @@ Reconheço-me como entusiasta em novas tecnologias do mercado, com aprendizado a
 | <a href="https://github.com/Samuraiflamesf/LadingPage03-Starbucks">Landing Page 03 - Starbucks </a> | <a href="https://starbucksflamebox.netlify.app/">Teste</a> |HTML/CSS/JS |
 | <a href="https://github.com/Samuraiflamesf/Clone_Linktree">Clone Linktree</a>  | <a href="https://bernardonogueira8.netlify.app/">Teste</a> |HTML/CSS/JS |
 | <a href="https://github.com/Samuraiflamesf/Lading_Page02">Landing Page 02</a> | <a href="https://medicenterflamebox.netlify.app/">Teste</a> |HTML/CSS/JS |
-| <a href="https://github.com/Samuraiflamesf/Page_Login01">Pagina de Login 01</a> | <a href="https://loginpageflamebox.netlify.app/">Teste</a> |HTML/CSS/JS |
+| <a href="https://github.com/Samuraiflamesf/Page_Login01">Pagina de Login 01 - FlameBox</a> | <a href="https://loginpageflamebox.netlify.app/">Teste</a> |HTML/CSS/JS |
 | <a href="https://github.com/Samuraiflamesf/Calculadora_HTML_Css_Js">Calculadora em JS</a> | <a href="https://calculadoraflamebox.netlify.app/">Teste</a>  | HTML/CSS/JS |
 | <a href="https://github.com/Samuraiflamesf/Landing_page">Landing Page 01</a> | <a href="https://landingpageflamebox.netlify.app/">Teste</a> | HTML/CSS/JS | 
 | <a href="https://github.com/Samuraiflamesf/Pokedex_MapaWeek">Pokedex</a> | <a href="https://flameboxpokedex.netlify.app/">Teste</a> | HTML/CSS/JS | 
