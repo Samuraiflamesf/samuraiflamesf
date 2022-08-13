@@ -47,7 +47,7 @@ Reconheço-me como entusiasta em novas tecnologias do mercado, com aprendizado a
 | ------------------- | ------------------- | ------------------- | ------------------- |
 | <a href="https://github.com/Samuraiflamesf/PyPandas">Planilha de Novos Pacientes</a> | Automação | Python + Pandas | Funcionando |
 | <a href="https://github.com/Samuraiflamesf/painelPassword_PHP">Painel de Senha</a> | <a href="https://painelpassword.herokuapp.com/">Link</a> | HTML/CSS/JS/PHP | Em Fase de Testes |
-| <a href="https://github.com/Samuraiflamesf/zetBot_Js_Ts">ChatBot com Machine Learning</a> | Bot | Js/Ts/NodeJs | Descontinuado |
+| <a href="https://github.com/Samuraiflamesf/zetBot_Js_Ts">ChatBot com Machine Learning</a> | Automação | Js/Ts/NodeJs | Descontinuado |
 | <a href="https://github.com/Samuraiflamesf/CookieClicker_pySelenium">Cookie Clicker</a> | Automação | Python + Selenium | Funcionando (15/05/2022) |
     
 </details>
