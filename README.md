@@ -43,12 +43,12 @@ Reconheço-me como entusiasta em novas tecnologias do mercado, com aprendizado a
      ⚡Projetos de Sistemas/App ⚡
      </h3></summary> 
     
-| Nome do Projetos    | Link/Utilização   | Tecnologias usadas  | Andamento do Projeto |
-| ------------------- | ------------------- | ------------------- | ------------------- |
-| <a href="https://github.com/Samuraiflamesf/PyPandas">Planilha de Novos Pacientes</a> | Automação | Python + Pandas | Funcionando |
-| <a href="https://github.com/Samuraiflamesf/painelPassword_PHP">Painel de Senha</a> | <a href="https://painelpassword.herokuapp.com/">Link</a> | HTML/CSS/JS/PHP | Em Fase de Testes |
-| <a href="https://github.com/Samuraiflamesf/zetBot_Js_Ts">ChatBot com Machine Learning</a> | Automação | Js/Ts/NodeJs | Descontinuado |
-| <a href="https://github.com/Samuraiflamesf/CookieClicker_pySelenium">Cookie Clicker</a> | Automação | Python + Selenium | Funcionando (15/05/2022) |
+| Nome do Projetos    | Link/Utilização   | Tecnologias usadas  | Andamento do Projeto | Hospedagem | 
+| ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| <a href="https://github.com/Samuraiflamesf/PyPandas">Planilha de Novos Pacientes</a> | Automação | Python + Pandas | Funcionando | Local |  
+| <a href="https://github.com/Samuraiflamesf/painelPassword_PHP">Painel de Senha</a> | <a href="https://painelpassword.herokuapp.com/">Link</a> | HTML/CSS/JS/PHP | Em Fase de Testes | Heroku | 
+| <a href="https://github.com/Samuraiflamesf/zetBot_Js_Ts">ChatBot com Machine Learning</a> | Automação | Js/Ts/NodeJs | Descontinuado | Local | 
+| <a href="https://github.com/Samuraiflamesf/CookieClicker_pySelenium">Cookie Clicker</a> | Automação | Python + Selenium | Funcionando (15/05/2022) | Local |
     
 </details>
 <details>
@@ -56,16 +56,16 @@ Reconheço-me como entusiasta em novas tecnologias do mercado, com aprendizado a
      ⚡Treinos/Projetos⚡
      </h3></summary> 
     
-| Nome do Projetos | Link da Aplicação  | Tecnologias usadas | Foco do Treino | 
-| ------------------- | ------------------- | ------------------- | ------------------- |
-| <a href="https://github.com/Samuraiflamesf/Page_Cadastro01">Pagina de Cadastro - FlameBox </a> | <a href="https://singinpageflamebox.netlify.app/">Área de Cadastro</a> | Bootstrap 5 | Bootstrap 5 |
-| <a href="https://github.com/Samuraiflamesf/LadingPage03-Starbucks">Landing Page 03 - Starbucks </a> | <a href="https://starbucksflamebox.netlify.app/">Starbucks</a> |HTML/CSS/JS | HTML/CSS |
-| <a href="https://github.com/Samuraiflamesf/Clone_Linktree">Clone Linktree</a>  | <a href="https://bernardonogueira8.netlify.app/">Linktree</a> |HTML/CSS/JS | HTML/CSS |
-| <a href="https://github.com/Samuraiflamesf/Lading_Page02">Landing Page 02</a> | <a href="https://medicenterflamebox.netlify.app/">MediCenter</a> |HTML/CSS/JS | HTML/CSS |
-| <a href="https://github.com/Samuraiflamesf/Page_Login01">Pagina de Login 01 - FlameBox</a> | <a href="https://loginpageflamebox.netlify.app/">Área de Login</a> |HTML/CSS/JS | HTML/CSS |
-| <a href="https://github.com/Samuraiflamesf/Calculadora_HTML_Css_Js">Calculadora em JS</a> | <a href="https://calculadoraflamebox.netlify.app/">Calculadora</a>  | HTML/CSS/JS | JavaScript |
-| <a href="https://github.com/Samuraiflamesf/Landing_page">Landing Page 01</a> | <a href="https://landingpageflamebox.netlify.app/">Landing Page</a> | HTML/CSS/JS | HTML/CSS | 
-| <a href="https://github.com/Samuraiflamesf/Pokedex_MapaWeek">Pokedex em Cards</a> | <a href="https://flameboxpokedex.netlify.app/">Pokedex</a> | HTML/CSS/JS | HTML/CSS/JS | 
+| Nome do Projetos | Link da Aplicação  | Tecnologias usadas | Foco do Treino | Hospedagem | 
+| ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| <a href="https://github.com/Samuraiflamesf/Page_Cadastro01">Pagina de Cadastro - FlameBox </a> | <a href="https://singinpageflamebox.netlify.app/">Área de Cadastro</a> | Bootstrap 5 | Bootstrap 5 | Netlify |
+| <a href="https://github.com/Samuraiflamesf/LadingPage03-Starbucks">Landing Page 03 - Starbucks </a> | <a href="https://starbucksflamebox.netlify.app/">Starbucks</a> |HTML/CSS/JS | HTML/CSS | Netlify |
+| <a href="https://github.com/Samuraiflamesf/Clone_Linktree">Clone Linktree</a>  | <a href="https://bernardonogueira8.netlify.app/">Linktree</a> |HTML/CSS/JS | HTML/CSS | Netlify |
+| <a href="https://github.com/Samuraiflamesf/Lading_Page02">Landing Page 02</a> | <a href="https://medicenterflamebox.netlify.app/">MediCenter</a> |HTML/CSS/JS | HTML/CSS | Netlify |
+| <a href="https://github.com/Samuraiflamesf/Page_Login01">Pagina de Login 01 - FlameBox</a> | <a href="https://loginpageflamebox.netlify.app/">Área de Login</a> |HTML/CSS/JS | HTML/CSS | Netlify |
+| <a href="https://github.com/Samuraiflamesf/Calculadora_HTML_Css_Js">Calculadora em JS</a> | <a href="https://calculadoraflamebox.netlify.app/">Calculadora</a>  | HTML/CSS/JS | JavaScript | Netlify |
+| <a href="https://github.com/Samuraiflamesf/Landing_page">Landing Page 01</a> | <a href="https://landingpageflamebox.netlify.app/">Landing Page</a> | HTML/CSS/JS | HTML/CSS | Netlify |
+| <a href="https://github.com/Samuraiflamesf/Pokedex_MapaWeek">Pokedex em Cards</a> | <a href="https://flameboxpokedex.netlify.app/">Pokedex</a> | HTML/CSS/JS | HTML/CSS/JS | Netlify | 
     
 </details>
 
