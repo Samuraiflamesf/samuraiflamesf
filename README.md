@@ -40,31 +40,33 @@ Reconheço-me como entusiasta em novas tecnologias do mercado, com aprendizado a
 
 <details>
     <summary><h3>
-     ⚡Projetos/Treinos Web⚡
+     ⚡Projetos de Sistemas/App ⚡
      </h3></summary> 
     
-| Projetos | Link da Aplicação  | Tecnologias usadas| Foco do Treino | 
+| Nome do Projetos    | Link da Aplicação   | Tecnologias usadas  | Andamento do Projeto |
 | ------------------- | ------------------- | ------------------- | ------------------- |
-| <a href="https://github.com/Samuraiflamesf/Page_Cadastro01">Pagina de Cadastro - FlameBox </a> | <a href="https://singinpageflamebox.netlify.app/">Teste</a> | Bootstrap 5 | Bootstrap 5 |
-| <a href="https://github.com/Samuraiflamesf/LadingPage03-Starbucks">Landing Page 03 - Starbucks </a> | <a href="https://starbucksflamebox.netlify.app/">Teste</a> |HTML/CSS/JS | HTML/CSS |
-| <a href="https://github.com/Samuraiflamesf/Clone_Linktree">Clone Linktree</a>  | <a href="https://bernardonogueira8.netlify.app/">Teste</a> |HTML/CSS/JS | HTML/CSS |
-| <a href="https://github.com/Samuraiflamesf/Lading_Page02">Landing Page 02</a> | <a href="https://medicenterflamebox.netlify.app/">Teste</a> |HTML/CSS/JS | HTML/CSS |
-| <a href="https://github.com/Samuraiflamesf/Page_Login01">Pagina de Login 01 - FlameBox</a> | <a href="https://loginpageflamebox.netlify.app/">Teste</a> |HTML/CSS/JS | HTML/CSS |
-| <a href="https://github.com/Samuraiflamesf/Calculadora_HTML_Css_Js">Calculadora em JS</a> | <a href="https://calculadoraflamebox.netlify.app/">Teste</a>  | HTML/CSS/JS | JavaScript |
-| <a href="https://github.com/Samuraiflamesf/Landing_page">Landing Page 01</a> | <a href="https://landingpageflamebox.netlify.app/">Teste</a> | HTML/CSS/JS | HTML/CSS | 
-| <a href="https://github.com/Samuraiflamesf/Pokedex_MapaWeek">Pokedex em Cards</a> | <a href="https://flameboxpokedex.netlify.app/">Teste</a> | HTML/CSS/JS | HTML/CSS/Javascript | 
+| <a href="---">Painel de Senha</a> | <a href="---">Link</a> | HTML/CSS/JS/PHP | Descontinuado |
+
     
 </details>
 <details>
     <summary><h3>
-     ⚡Projetos de Sistemas/App ⚡
+     ⚡Treinos/Projetos⚡
      </h3></summary> 
-| Projetos            | Link da Aplicação   | Tecnologias usadas  | Andamento do Projeto |  
+    
+| Nome do Projetos | Link da Aplicação  | Tecnologias usadas | Foco do Treino | 
 | ------------------- | ------------------- | ------------------- | ------------------- |
-| ------------------- | ------------------- | ------------------- | ------------------- |
-
+| <a href="https://github.com/Samuraiflamesf/Page_Cadastro01">Pagina de Cadastro - FlameBox </a> | <a href="https://singinpageflamebox.netlify.app/">Área de Cadastro</a> | Bootstrap 5 | Bootstrap 5 |
+| <a href="https://github.com/Samuraiflamesf/LadingPage03-Starbucks">Landing Page 03 - Starbucks </a> | <a href="https://starbucksflamebox.netlify.app/">Starbucks</a> |HTML/CSS/JS | HTML/CSS |
+| <a href="https://github.com/Samuraiflamesf/Clone_Linktree">Clone Linktree</a>  | <a href="https://bernardonogueira8.netlify.app/">Linktree</a> |HTML/CSS/JS | HTML/CSS |
+| <a href="https://github.com/Samuraiflamesf/Lading_Page02">Landing Page 02</a> | <a href="https://medicenterflamebox.netlify.app/">MediCenter</a> |HTML/CSS/JS | HTML/CSS |
+| <a href="https://github.com/Samuraiflamesf/Page_Login01">Pagina de Login 01 - FlameBox</a> | <a href="https://loginpageflamebox.netlify.app/">Área de Login</a> |HTML/CSS/JS | HTML/CSS |
+| <a href="https://github.com/Samuraiflamesf/Calculadora_HTML_Css_Js">Calculadora em JS</a> | <a href="https://calculadoraflamebox.netlify.app/">Calculadora</a>  | HTML/CSS/JS | JavaScript |
+| <a href="https://github.com/Samuraiflamesf/Landing_page">Landing Page 01</a> | <a href="https://landingpageflamebox.netlify.app/">Landing Page</a> | HTML/CSS/JS | HTML/CSS | 
+| <a href="https://github.com/Samuraiflamesf/Pokedex_MapaWeek">Pokedex em Cards</a> | <a href="https://flameboxpokedex.netlify.app/">Pokedex</a> | HTML/CSS/JS | HTML/CSS/JS | 
     
 </details>
+
 
 ## GitHub Status</h2>
 <a href="https://github.com/samuraiflamesf"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=samuraiflamesf&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&" /><!-- ADO --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuraiflamesf&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&" /></a>
