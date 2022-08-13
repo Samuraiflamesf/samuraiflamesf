@@ -43,12 +43,12 @@ Reconheço-me como entusiasta em novas tecnologias do mercado, com aprendizado a
      ⚡Projetos de Sistemas/App ⚡
      </h3></summary> 
     
-| Nome do Projetos    | Link/Utilização   | Tecnologias usadas  | Andamento do Projeto | Hospedagem | 
-| ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
-| <a href="https://github.com/Samuraiflamesf/PyPandas">Planilha de Novos Pacientes</a> | Automação | Python + Pandas | Funcionando | Local |  
-| <a href="https://github.com/Samuraiflamesf/painelPassword_PHP">Painel de Senha</a> | <a href="https://painelpassword.herokuapp.com/">Link</a> | HTML/CSS/JS/PHP | Fase de Testes | Heroku | 
-| <a href="https://github.com/Samuraiflamesf/zetBot_Js_Ts">ChatBot com Machine Learning</a> | Automação | Js/Ts/NodeJs | Descontinuado | Local | 
-| <a href="https://github.com/Samuraiflamesf/CookieClicker_pySelenium">Cookie Clicker</a> | Automação | Python + Selenium | Funcionando (15/05/2022) | Local |
+| Nome do Projetos    | Link/Utilização   | Tecnologias usadas  | Andamento do Projeto |
+| ------------------- | ------------------- | ------------------- | ------------------- | 
+| <a href="https://github.com/Samuraiflamesf/PyPandas">Planilha de Novos Pacientes</a> | Automação | Python + Pandas | Funcionando | 
+| <a href="https://github.com/Samuraiflamesf/painelPassword_PHP">Painel de Senha</a> | Rodar Local | HTML/CSS/JS/PHP | Fase de Testes | 
+| <a href="https://github.com/Samuraiflamesf/zetBot_Js_Ts">ChatBot com Machine Learning</a> | Automação | Js/Ts/NodeJs | Descontinuado |
+| <a href="https://github.com/Samuraiflamesf/CookieClicker_pySelenium">Cookie Clicker</a> | Automação | Python + Selenium | Funcionando (15/05/2022) |
     
 </details>
 <details>
