@@ -50,6 +50,7 @@ Reconheço-me como entusiasta em novas tecnologias do mercado, com aprendizado a
     
 | Nome do Projetos    | Link/Utilização   | Tecnologias usadas  | Andamento do Projeto |
 | ------------------- | ------------------- | ------------------- | ------------------- | 
+| <a href="https://github.com/Samuraiflamesf/systemCar">SystemCar</a> | WEB | BootStrap + Js | Funcionando | 
 | <a href="https://github.com/Samuraiflamesf/PyPandas">Planilha de Novos Pacientes</a> | Automação | Python + Pandas | Funcionando | 
 | <a href="https://github.com/Samuraiflamesf/painelPassword_PHP">Painel de Senha</a> | Rodar Local | HTML/CSS/JS/PHP | Fase de Testes | 
 | <a href="https://github.com/Samuraiflamesf/zetBot_Js_Ts">ChatBot com Machine Learning</a> | Automação | Js/Ts/NodeJs | Descontinuado |
