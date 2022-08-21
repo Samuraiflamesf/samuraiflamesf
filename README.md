@@ -70,7 +70,7 @@ Reconheço-me como entusiasta em novas tecnologias do mercado, com aprendizado a
     
 | Nome do Projetos | Link da Aplicação  | Tecnologias usadas | Foco do Treino | Hospedagem | 
 | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
-| <a href="">PageLogin - FlameBox </a> | <a href="">Área de Login</a> | Bootstrap 5 / JS | Bootstrap 5 / JS | Netlify |
+| <a href="https://github.com/Samuraiflamesf/LoginAdmin-FlameBox">LoginAdmin-FlameBox </a> | <a href="https://loginadminflamebox.netlify.app">Área de Login</a> | Bootstrap 5 / JS | Bootstrap 5 / JS | Netlify |
 | <a href="https://github.com/Samuraiflamesf/Page_Cadastro01">Pagina de Cadastro - FlameBox </a> | <a href="https://singinpageflamebox.netlify.app/">Área de Cadastro</a> | Bootstrap 5 | Bootstrap 5 | Netlify |
 | <a href="https://github.com/Samuraiflamesf/LadingPage03-Starbucks">Landing Page - Starbucks </a> | <a href="https://starbucksflamebox.netlify.app/">Starbucks</a> |HTML/CSS/JS | HTML/CSS | Netlify |
 | <a href="https://github.com/Samuraiflamesf/Clone_Linktree">Clone Linktree</a>  | <a href="https://bernardonogueira8.netlify.app/">Linktree</a> |HTML/CSS/JS | HTML/CSS | Netlify |
