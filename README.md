@@ -1,6 +1,7 @@
 # Hello, Sou Bernardo Nogueira!
 
 ### 📣 Quer entrar em contato comigo?
+
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bernardo.nogueira8/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-nogueira-da-silva-0755431a6/)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCqcrZPdAU0NOdqJu4OAyt9A)
@@ -8,7 +9,9 @@
 [![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/SamuraiFlameSF)
 
 ## Sobre mim 👋
+
 ### Eu sou Brasileiro e almejo me tornar um Full Stack/T Shaped.
+
 <details>
     <summary><h3>
      ⚡My Life⚡</h3></summary>
@@ -29,6 +32,7 @@ Reconheço-me como entusiasta em novas tecnologias do mercado, com aprendizado a
 </details>
 
 ## Tecnologias e Ferramentas 🛠️
+
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -39,6 +43,7 @@ Reconheço-me como entusiasta em novas tecnologias do mercado, com aprendizado a
 ![VSCode Badge](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## Em Aprendizado 🛠️
+
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -50,7 +55,8 @@ Reconheço-me como entusiasta em novas tecnologias do mercado, com aprendizado a
     
 | Nome do Projetos    | Link/Utilização   | Tecnologias usadas  | Andamento do Projeto |
 | ------------------- | ------------------- | ------------------- | ------------------- | 
-| <a href="https://github.com/Samuraiflamesf/systemCar">SystemCar</a> | WEB | BootStrap + Js | Funcionando | 
+| <a href="https://github.com/Samuraiflamesf/Redme-NewProject">Redme-NewProject</a> | GitHub | Markdown | Templete | 
+| <a href="https://github.com/Samuraiflamesf/systemCar">SystemCar</a> | <a href="https://systemcar.netlify.app/">WEB</a> | BootStrap + Js | Funcionando | 
 | <a href="https://github.com/Samuraiflamesf/PyPandas">Planilha de Novos Pacientes</a> | Automação | Python + Pandas | Funcionando | 
 | <a href="https://github.com/Samuraiflamesf/painelPassword_PHP">Painel de Senha</a> | Rodar Local | HTML/CSS/JS/PHP | Fase de Testes | 
 | <a href="https://github.com/Samuraiflamesf/zetBot_Js_Ts">ChatBot com Machine Learning</a> | Automação | Js/Ts/NodeJs | Descontinuado |
@@ -65,16 +71,16 @@ Reconheço-me como entusiasta em novas tecnologias do mercado, com aprendizado a
 | Nome do Projetos | Link da Aplicação  | Tecnologias usadas | Foco do Treino | Hospedagem | 
 | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | <a href="https://github.com/Samuraiflamesf/Page_Cadastro01">Pagina de Cadastro - FlameBox </a> | <a href="https://singinpageflamebox.netlify.app/">Área de Cadastro</a> | Bootstrap 5 | Bootstrap 5 | Netlify |
-| <a href="https://github.com/Samuraiflamesf/LadingPage03-Starbucks">Landing Page 03 - Starbucks </a> | <a href="https://starbucksflamebox.netlify.app/">Starbucks</a> |HTML/CSS/JS | HTML/CSS | Netlify |
+| <a href="https://github.com/Samuraiflamesf/LadingPage03-Starbucks">Landing Page - Starbucks </a> | <a href="https://starbucksflamebox.netlify.app/">Starbucks</a> |HTML/CSS/JS | HTML/CSS | Netlify |
 | <a href="https://github.com/Samuraiflamesf/Clone_Linktree">Clone Linktree</a>  | <a href="https://bernardonogueira8.netlify.app/">Linktree</a> |HTML/CSS/JS | HTML/CSS | Netlify |
-| <a href="https://github.com/Samuraiflamesf/Lading_Page02">Landing Page 02</a> | <a href="https://medicenterflamebox.netlify.app/">MediCenter</a> |HTML/CSS/JS | HTML/CSS | Netlify |
-| <a href="https://github.com/Samuraiflamesf/Page_Login01">Pagina de Login 01 - FlameBox</a> | <a href="https://loginpageflamebox.netlify.app/">Área de Login</a> |HTML/CSS/JS | HTML/CSS | Netlify |
+| <a href="https://github.com/Samuraiflamesf/Lading_Page02">Landing Page - MediCenter</a> | <a href="https://medicenterflamebox.netlify.app/">MediCenter</a> |HTML/CSS/JS | HTML/CSS | Netlify |
+| <a href="https://github.com/Samuraiflamesf/Page_Login01">PageLogin - FlameBox</a> | <a href="https://loginpageflamebox.netlify.app/">Área de Login</a> |HTML/CSS/JS | HTML/CSS | Netlify |
 | <a href="https://github.com/Samuraiflamesf/Calculadora_HTML_Css_Js">Calculadora em JS</a> | <a href="https://calculadoraflamebox.netlify.app/">Calculadora</a>  | HTML/CSS/JS | JavaScript | Netlify |
-| <a href="https://github.com/Samuraiflamesf/Landing_page">Landing Page 01</a> | <a href="https://landingpageflamebox.netlify.app/">Landing Page</a> | HTML/CSS/JS | HTML/CSS | Netlify |
+| <a href="https://github.com/Samuraiflamesf/Landing_page">LandingPage - FlameBox</a> | <a href="https://landingpageflamebox.netlify.app/">Landing Page</a> | HTML/CSS/JS | HTML/CSS | Netlify |
 | <a href="https://github.com/Samuraiflamesf/Pokedex_MapaWeek">Pokedex em Cards</a> | <a href="https://flameboxpokedex.netlify.app/">Pokedex</a> | HTML/CSS/JS | HTML/CSS/JS | Netlify | 
     
 </details>
 
-
 ## GitHub Status ✨
+
 <a href="https://github.com/samuraiflamesf"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=samuraiflamesf&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&" /><!-- ADO --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuraiflamesf&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&" /></a>
