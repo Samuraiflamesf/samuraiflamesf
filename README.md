@@ -1,6 +1,10 @@
 # Hello, Sou Bernardo Nogueira!
 
-### 📣 Quer entrar em contato comigo?
+## Sobre mim 👋
+
+Prazer, me chamo Bernardo Nogueira, tenho 21 anos, sou Brasileiro e almejo me tornar um Full Stack, graduando em Licenciatura em Matemática pelo Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA). Formando em Análise e Desenvolvimento de Sistemas pelo Centro Universitário UniFatecie. Atuo como Técnico de informática na Fundação Estatal Saúde da Família. Tecnólogo em Gastronomia, capacitado pela Universidade Salvador - UNIFACS (2022).
+
+#### 📣 Quer entrar em contato comigo?
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bernardo.nogueira8/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-nogueira-da-silva-0755431a6/)
@@ -8,21 +12,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuraiflamesf@gmail.com)
 [![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/SamuraiFlameSF)
 
-## Sobre mim 👋
-
-Prazer, me chamo Bernardo Nogueira, tenho 21 anos, sou Brasileiro e almejo me tornar um Full Stack, graduando em Licenciatura em Matemática pelo Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA). Formando em Análise e Desenvolvimento de Sistemas pelo Centro Universitário UniFatecie. Atuo como Técnico de informática na Fundação Estatal Saúde da Família. Tecnólogo em Gastronomia, capacitado pela Universidade Salvador - UNIFACS (2022).
-
-<details>
-    <summary><h3>
-     🖥️Workstation🖥️</h3></summary> 
-        <ul>
-            <b>SO:</b> Dual Boot(Windows 10 & Ubuntu)</br>
-            <b>Code Editor:</b> VSCode.</br>
-            <b>CPU:</b> E5-2640v3</br>
-            <b>RAM:</b> 32Gb DDR4</br>
-            <b>GPU:</b> GTX 1070 8Gb</br>
-        </ul>
-</details>
 
 ## GitHub Status ✨
 
