@@ -10,8 +10,7 @@
 
 ## Sobre mim 👋
 
-### Eu sou Brasileiro e almejo me tornar um Full Stack/T Shaped.
-Prazer, me chamo Bernardo, tenho 21 anos, graduando em Licenciatura em Matemática pelo Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA). Formando em Análise e Desenvolvimento de Sistemas pelo Centro Universitário UniFatecie. Atuo como Técnico de informática na Fundação Estatal Saúde da Família. Tecnólogo em Gastronomia, capacitado pela Universidade Salvador - UNIFACS (2022).
+Prazer, me chamo Bernardo Nogueira, tenho 21 anos, sou Brasileiro e almejo me tornar um Full Stack, graduando em Licenciatura em Matemática pelo Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA). Formando em Análise e Desenvolvimento de Sistemas pelo Centro Universitário UniFatecie. Atuo como Técnico de informática na Fundação Estatal Saúde da Família. Tecnólogo em Gastronomia, capacitado pela Universidade Salvador - UNIFACS (2022).
 
 <details>
     <summary><h3>
