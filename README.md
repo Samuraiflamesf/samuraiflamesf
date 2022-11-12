@@ -11,13 +11,8 @@
 ## Sobre mim 👋
 
 ### Eu sou Brasileiro e almejo me tornar um Full Stack/T Shaped.
+Prazer, me chamo Bernardo, tenho 21 anos, graduando em Licenciatura em Matemática pelo Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA). Formando em Análise e Desenvolvimento de Sistemas pelo Centro Universitário UniFatecie. Atuo como Técnico de informática na Fundação Estatal Saúde da Família. Tecnólogo em Gastronomia, capacitado pela Universidade Salvador - UNIFACS (2022).
 
-<details>
-    <summary><h3>
-     ⚡My Life⚡</h3></summary>
-            <p>
-            Prazer, me chamo Bernardo, tenho 21 anos, graduando em Licenciatura em Matemática pelo Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA). Formando em Análise e Desenvolvimento de Sistemas pelo Centro Universitário UniFatecie. Atuo como Técnico de informática na Fundação Estatal Saúde da Família. Tecnólogo em Gastronomia, capacitado pela Universidade Salvador - UNIFACS (2022).
- </p></details>
 <details>
     <summary><h3>
      🖥️Workstation🖥️</h3></summary> 
@@ -29,6 +24,10 @@
             <b>GPU:</b> GTX 1070 8Gb</br>
         </ul>
 </details>
+
+## GitHub Status ✨
+
+<a href="https://github.com/samuraiflamesf"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=samuraiflamesf&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&" /><!-- ADO --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuraiflamesf&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&" /></a>
 
 ## Tecnologias e Ferramentas 🛠️
 
@@ -49,7 +48,7 @@
 
 <details>
     <summary><h3>
-     ⚡Projetos de Sistemas/App ⚡
+     ⚡Projetos/App ⚡
      </h3></summary> 
     
 | Nome do Projetos    | Link/Utilização   | Tecnologias usadas  | Andamento do Projeto |
@@ -67,7 +66,7 @@
 </details>
 <details>
     <summary><h3>
-     ⚡Treinos/Projetos⚡
+     ⚡Treinos/MiniProjetos⚡
      </h3></summary> 
     
 | Nome do Projetos | Link da Aplicação  | Tecnologias usadas | Foco do Treino | Hospedagem | 
@@ -83,7 +82,3 @@
 | <a href="https://github.com/Samuraiflamesf/Pokedex_MapaWeek">Pokedex em Cards</a> | <a href="https://flameboxpokedex.netlify.app/">Pokedex</a> | HTML/CSS/JS | HTML/CSS/JS | Netlify | 
     
 </details>
-
-## GitHub Status ✨
-
-<a href="https://github.com/samuraiflamesf"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=samuraiflamesf&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&" /><!-- ADO --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuraiflamesf&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&" /></a>
