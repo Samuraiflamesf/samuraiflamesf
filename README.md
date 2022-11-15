@@ -32,6 +32,7 @@ Prazer, me chamo Bernardo Nogueira, tenho 21 anos, sou Brasileiro e almejo me to
     
 | Nome do Projetos    | Link/Utilização   | Tecnologias usadas  | Andamento do Projeto |
 | ------------------- | ------------------- | ------------------- | ------------------- | 
+| <a href="https://github.com/Samuraiflamesf/Social-Media-Dashboard">Social Media Dashboard</a> | <a href="https://socialmediauserbernardonogueira8.netlify.app/">WEB</a> |  BootStrap + Js + API | Funcionando | 
 | <a href="https://github.com/Samuraiflamesf/DescobrirNumero_JS">Descobrir o número de 1 a 100 🎲</a> | <a href="https://descobrirnumerojs.netlify.app/">WEB</a> |  BootStrap + Js | Funcionando | 
 | <a href="https://github.com/Samuraiflamesf/BateriaEletronica_Js">Bateria Eletronica 🎼</a> | <a href="https://bateriaeletronicajs.netlify.app/">WEB</a> |  BootStrap + Js | Funcionando | 
 | <a href="https://github.com/Samuraiflamesf/Meu_Linktree">Meu Linktree</a> | <a href="https://bernardonogueira8.netlify.app/">WEB</a>|  BootStrap + Js | Funcionando | 
