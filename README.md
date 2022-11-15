@@ -37,7 +37,7 @@ Prazer, me chamo Bernardo Nogueira, tenho 21 anos, sou Brasileiro e almejo me to
 | <a href="https://github.com/Samuraiflamesf/BateriaEletronica_Js">Bateria Eletronica 🎼</a> | <a href="https://bateriaeletronicajs.netlify.app/">WEB</a> |  BootStrap + Js | Funcionando | 
 | <a href="https://github.com/Samuraiflamesf/Meu_Linktree">Meu Linktree</a> | <a href="https://bernardonogueira8.netlify.app/">WEB</a>|  BootStrap + Js | Funcionando | 
 | <a href="https://github.com/Samuraiflamesf/systemCar">SystemCar</a> | <a href="https://systemcar.netlify.app/">WEB</a> | BootStrap + Js | Funcionando | 
-    | <a href="https://github.com/Samuraiflamesf/Redme-NewProject">Readme-NewProject</a> | GitHub | Markdown | Templete | 
+| <a href="https://github.com/Samuraiflamesf/Redme-NewProject">Readme-NewProject</a> | GitHub | Markdown | Templete | 
 | <a href="https://github.com/Samuraiflamesf/PyPandas">Planilha de Novos Pacientes</a> | Automação | Python + Pandas | Funcionando | 
 | <a href="https://github.com/Samuraiflamesf/painelPassword_PHP">Painel de Senha</a> | Rodar Local | HTML/CSS/JS/PHP | Fase de Testes | 
 | <a href="https://github.com/Samuraiflamesf/zetBot_Js_Ts">ChatBot com Machine Learning</a> | Automação | Js/Ts/NodeJs | Descontinuado |
