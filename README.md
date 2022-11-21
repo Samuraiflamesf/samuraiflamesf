@@ -15,8 +15,7 @@ Prazer, me chamo Bernardo Nogueira, tenho 21 anos, sou Brasileiro e almejo me to
 
 ## GitHub Status ✨
 
-<a href="https://github-readme-stats.vercel.app/api?username=samuraiflamesf&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&_PART_1" />
-<!-- ADO --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuraiflamesf&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&PART_1" /></a>
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuraiflamesf&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&"/></a>
 
 ## Tecnologias e Ferramentas 🛠️
 [![Skills](https://skillicons.dev/icons?i=vscode,html,css,js,bootstrap,python&theme=dark)](https://skillicons.dev)
