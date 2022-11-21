@@ -13,9 +13,9 @@ Prazer, me chamo Bernardo Nogueira, tenho 21 anos, sou Brasileiro e almejo me to
 [![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/SamuraiFlameSF)
 
 ## GitHub Status ✨
-<!--START_SECTION:waka-->
+![Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=samuraiflamesf&layout=compact&custom_title=Programa%C3%A7%C3%A3o%20Mais%20Usadas&card_width=400)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samuraiflamesf&custom_title=)
 
-<!--END_SECTION:waka-->
 
 ## Tecnologias e Ferramentas 🛠️
 [![Skills](https://skillicons.dev/icons?i=vscode,html,css,js,bootstrap,python&theme=dark)](https://skillicons.dev)
