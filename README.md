@@ -12,10 +12,10 @@ Prazer, me chamo Bernardo Nogueira, tenho 21 anos, sou Brasileiro e almejo me to
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuraiflamesf@gmail.com)
 [![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/SamuraiFlameSF)
 
-
 ## GitHub Status ✨
+<!--START_SECTION:waka-->
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuraiflamesf&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&"/></a>
+<!--END_SECTION:waka-->
 
 ## Tecnologias e Ferramentas 🛠️
 [![Skills](https://skillicons.dev/icons?i=vscode,html,css,js,bootstrap,python&theme=dark)](https://skillicons.dev)
