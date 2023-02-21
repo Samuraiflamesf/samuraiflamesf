@@ -2,7 +2,7 @@
 
 ## Sobre mim 👋
 
-Prazer, me chamo Bernardo Nogueira, tenho 21 anos, sou Brasileiro e almejo me tornar um Full Stack, graduando em Licenciatura em Matemática pelo Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA). Formando em Análise e Desenvolvimento de Sistemas pelo Centro Universitário UniFatecie. Atuo como Técnico de informática na Fundação Estatal Saúde da Família. Tecnólogo em Gastronomia, capacitado pela Universidade Salvador - UNIFACS (2022).
+Prazer, me chamo Bernardo Nogueira, tenho 22 anos, sou Brasileiro e almejo me tornar um Full Stack, graduando em Licenciatura em Matemática pelo Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA). Formando em Análise e Desenvolvimento de Sistemas pelo Centro Universitário UniFatecie. Atuo como Técnico de informática na Fundação Estatal Saúde da Família. Tecnólogo em Gastronomia, capacitado pela Universidade Salvador - UNIFACS (2022).
 
 #### 📣 Quer entrar em contato comigo?
 
@@ -51,6 +51,7 @@ Prazer, me chamo Bernardo Nogueira, tenho 21 anos, sou Brasileiro e almejo me to
     
 | Nome do Projetos | Link da Aplicação  | Tecnologias usadas | Foco do Treino | Hospedagem | 
 | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| <a href="https://github.com/Samuraiflamesf/BuscandoCEP_Ajax">BuscandoCEP_Ajax</a> | <a href="https://buscandocepajax.netlify.app/">Buscar CEP Ajax</a> | Bootstrap 5 / JS | Bootstrap 5 / JS | Netlify |
 | <a href="https://github.com/Samuraiflamesf/LoginAdmin-FlameBox">LoginAdmin-FlameBox </a> | <a href="https://loginadminflamebox.netlify.app">Área de Login</a> | Bootstrap 5 / JS | Bootstrap 5 / JS | Netlify |
 | <a href="https://github.com/Samuraiflamesf/Page_Cadastro01">Pagina de Cadastro - FlameBox </a> | <a href="https://singinpageflamebox.netlify.app/">Área de Cadastro</a> | Bootstrap 5 | Bootstrap 5 | Netlify |
 | <a href="https://github.com/Samuraiflamesf/LadingPage03-Starbucks">Landing Page - Starbucks </a> | <a href="https://starbucksflamebox.netlify.app/">Starbucks</a> |HTML/CSS/JS | HTML/CSS | Netlify |
