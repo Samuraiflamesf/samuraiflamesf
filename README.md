@@ -45,8 +45,11 @@ Prazer, me chamo Bernardo Nogueira, tenho 22 anos, sou Brasileiro e almejo me to
     
 | Nome do Projetos | Link/Utilização | Tecnologias usadas | Andamento do Projeto |
 | ------------------- | ------------------- | ------------------- | ------------------- |
-| <a href="https://github.com/Samuraiflamesf/FlameSupport">FlameSupport</a> | <a href="">WEB</a> |  Laravel.10/TailwindCss | Andamento | 
 | <a href="https://github.com/Samuraiflamesf/FlameFinance">FlameFinance</a> | <a href="">WEB</a> |  Laravel.10/TailwindCss | Andamento | 
+| <a href="https://github.com/Samuraiflamesf/WorkTimerLofi">WorkTimerLofi</a> | <a href="">WEB</a> |  Laravel.10/TailwindCss | Andamento | 
+| <a href="https://github.com/Samuraiflamesf/Portfolio">Portfolio</a> | <a href="">WEB</a> |  Laravel.10/TailwindCss | Andamento | 
+| <a href="https://github.com/Samuraiflamesf/InControl">InControl</a> | <a href="">WEB</a> |  Laravel.10/TailwindCss | Andamento | 
+| <a href="https://github.com/Samuraiflamesf/FlameSupport">FlameSupport</a> | <a href="">WEB</a> |  Laravel.10/TailwindCss | Andamento | 
 | <a href="https://github.com/Samuraiflamesf/Social-Media-Dashboard">Social Media Dashboard</a> | <a href="https://socialmediauserbernardonogueira8.netlify.app/">WEB</a> | HTML/CSS/JS/BootStrap/API | Funcionando | 
 | <a href="https://github.com/Samuraiflamesf/DescobrirNumero_JS">Descobrir o número de 1 a 100 🎲</a> | <a href="https://descobrirnumerojs.netlify.app/">WEB</a> | HTML/CSS/JS/BootStrap| Funcionando | 
 | <a href="https://github.com/Samuraiflamesf/BateriaEletronica_Js">Bateria Eletronica 🎼</a> | <a href="https://bateriaeletronicajs.netlify.app/">WEB</a> | HTML/CSS/JS/BootStrap| Funcionando | 
