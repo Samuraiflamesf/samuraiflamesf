@@ -23,6 +23,20 @@ Prazer, me chamo Bernardo Nogueira, tenho 22 anos, sou Brasileiro e almejo me to
 [![Skills](https://skillicons.dev/icons?i=r,php,mysql,tailwind&theme=light)](https://skillicons.dev)
 
 <details>
+    <summary>
+        <h3>
+            ⚡Ordem de Projetos ⚡
+        </h3>
+    </summary> 
+    
+- [ ] FlameSupport
+- [ ] InControl
+- [ ] Portfolio
+- [ ] WorkTimerLofi
+- [ ] FlameFinance
+    
+</details>
+<details>
     <summary><h3>
      ⚡Projetos/App ⚡
      </h3></summary> 
