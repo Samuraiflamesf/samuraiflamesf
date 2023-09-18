@@ -47,7 +47,7 @@ Prazer, me chamo Bernardo Nogueira, tenho 22 anos, sou Brasileiro e almejo me to
 | ------------------- | ------------------- | ------------------- | ------------------- |
 | <a href="https://github.com/Samuraiflamesf/FlameFinance">FlameFinance</a> | <a href="">WEB</a> |  Laravel.10/TailwindCss | Andamento | 
 | <a href="https://github.com/Samuraiflamesf/WorkTimerLofi">WorkTimerLofi</a> | <a href="">WEB</a> |  Laravel.10/TailwindCss | Andamento | 
-| <a href="https://github.com/Samuraiflamesf/Portfolio">Portfolio</a> | <a href="">WEB</a> |  Laravel.10/TailwindCss | Andamento | 
+| <a href="https://github.com/Samuraiflamesf/portfolio_php">Portfolio</a> | <a href="">WEB</a> |  Laravel.10/TailwindCss | Andamento | 
 | <a href="https://github.com/Samuraiflamesf/InControl">InControl</a> | <a href="">WEB</a> |  Laravel.10/TailwindCss | Andamento | 
 | <a href="https://github.com/Samuraiflamesf/FlameSupport">FlameSupport</a> | <a href="">WEB</a> |  Laravel.10/TailwindCss | Andamento | 
 | <a href="https://github.com/Samuraiflamesf/Social-Media-Dashboard">Social Media Dashboard</a> | <a href="https://socialmediauserbernardonogueira8.netlify.app/">WEB</a> | HTML/CSS/JS/BootStrap/API | Funcionando | 
