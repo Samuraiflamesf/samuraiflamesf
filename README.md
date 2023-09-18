@@ -20,7 +20,7 @@ Prazer, me chamo Bernardo Nogueira, tenho 22 anos, sou Brasileiro e almejo me to
 [![Skills](https://skillicons.dev/icons?i=latex&theme=light)](https://skillicons.dev)
 
 ## Em Aprendizado 🛠️
-[![Skills](https://skillicons.dev/icons?i=r,php,mysql,tailwind&theme=light)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=r,php,mysql,tailwind,laravel&theme=light)](https://skillicons.dev)
 
 <details>
     <summary>
