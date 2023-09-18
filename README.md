@@ -25,7 +25,7 @@ Prazer, me chamo Bernardo Nogueira, tenho 22 anos, sou Brasileiro e almejo me to
 <details>
     <summary>
         <h3>
-            ⚡Ordem de Projetos ⚡
+            ⚡Roadmap de Projetos ⚡
         </h3>
     </summary> 
     
@@ -37,29 +37,33 @@ Prazer, me chamo Bernardo Nogueira, tenho 22 anos, sou Brasileiro e almejo me to
     
 </details>
 <details>
-    <summary><h3>
-     ⚡Projetos/App ⚡
-     </h3></summary> 
+    <summary>
+        <h3>
+            ⚡Projetos/App ⚡
+        </h3>
+    </summary>  
     
 | Nome do Projetos | Link/Utilização | Tecnologias usadas | Andamento do Projeto |
 | ------------------- | ------------------- | ------------------- | ------------------- |
-| <a href="https://github.com/Samuraiflamesf/toDoList">ToDo List</a> | <a href="">WEB</a> |  BootStrap + PHP | Andamento | 
-| <a href="https://github.com/Samuraiflamesf/FlameFinance">FlameFinance</a> | <a href="">WEB</a> |  BootStrap + PHP  | Andamento | 
-| <a href="https://github.com/Samuraiflamesf/Social-Media-Dashboard">Social Media Dashboard</a> | <a href="https://socialmediauserbernardonogueira8.netlify.app/">WEB</a> |  BootStrap + Js + API | Funcionando | 
-| <a href="https://github.com/Samuraiflamesf/DescobrirNumero_JS">Descobrir o número de 1 a 100 🎲</a> | <a href="https://descobrirnumerojs.netlify.app/">WEB</a> |  BootStrap + Js | Funcionando | 
-| <a href="https://github.com/Samuraiflamesf/BateriaEletronica_Js">Bateria Eletronica 🎼</a> | <a href="https://bateriaeletronicajs.netlify.app/">WEB</a> |  BootStrap + Js | Funcionando | 
-| <a href="https://github.com/Samuraiflamesf/Meu_Linktree">Meu Linktree</a> | <a href="https://bernardonogueira8.netlify.app/">WEB</a>|  BootStrap + Js | Funcionando | 
-| <a href="https://github.com/Samuraiflamesf/systemCar">SystemCar</a> | <a href="https://systemcar.netlify.app/">WEB</a> | BootStrap + Js | Funcionando | 
+| <a href="https://github.com/Samuraiflamesf/FlameSupport">FlameSupport</a> | <a href="">WEB</a> |  Laravel.10/TailwindCss | Andamento | 
+| <a href="https://github.com/Samuraiflamesf/FlameFinance">FlameFinance</a> | <a href="">WEB</a> |  Laravel.10/TailwindCss | Andamento | 
+| <a href="https://github.com/Samuraiflamesf/Social-Media-Dashboard">Social Media Dashboard</a> | <a href="https://socialmediauserbernardonogueira8.netlify.app/">WEB</a> | HTML/CSS/JS/BootStrap/API | Funcionando | 
+| <a href="https://github.com/Samuraiflamesf/DescobrirNumero_JS">Descobrir o número de 1 a 100 🎲</a> | <a href="https://descobrirnumerojs.netlify.app/">WEB</a> | HTML/CSS/JS/BootStrap| Funcionando | 
+| <a href="https://github.com/Samuraiflamesf/BateriaEletronica_Js">Bateria Eletronica 🎼</a> | <a href="https://bateriaeletronicajs.netlify.app/">WEB</a> | HTML/CSS/JS/BootStrap| Funcionando | 
+| <a href="https://github.com/Samuraiflamesf/Meu_Linktree">Meu Linktree</a> | <a href="https://bernardonogueira8.netlify.app/">WEB</a>| HTML/CSS/JS/BootStrap| Funcionando | 
+| <a href="https://github.com/Samuraiflamesf/systemCar">SystemCar</a> | <a href="https://systemcar.netlify.app/">WEB</a> |HTML/CSS/JS/BootStrap| Funcionando | 
 | <a href="https://github.com/Samuraiflamesf/Redme-NewProject">Readme-NewProject</a> | GitHub | Markdown | Templete | 
 | <a href="https://github.com/Samuraiflamesf/painelPassword_PHP">Painel de Senha</a> | Rodar Local | HTML/CSS/JS/PHP | Descontinuado | 
 | <a href="https://github.com/Samuraiflamesf/zetBot_Js_Ts">ChatBot com Machine Learning</a> | Automação | Js/Ts/NodeJs | Descontinuado |
-| <a href="https://github.com/Samuraiflamesf/CookieClicker_pySelenium">Cookie Clicker</a> | Automação | Python + Selenium | Funcionando (15/05/2022) |
+| <a href="https://github.com/Samuraiflamesf/CookieClicker_pySelenium">Cookie Clicker</a> | Automação | Python/Selenium | Funcionando (15/05/2022) |
     
 </details>
 <details>
-    <summary><h3>
-     ⚡Treinos/MiniProjetos⚡
-     </h3></summary> 
+<summary>
+        <h3>
+            ⚡MiniProjetos⚡
+        </h3>
+</summary> 
     
 | Nome do Projetos | Link da Aplicação  | Tecnologias usadas | Foco do Treino | Hospedagem | 
 | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
