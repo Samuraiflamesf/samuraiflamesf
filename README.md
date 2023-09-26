@@ -2,7 +2,7 @@
 
 ## Sobre mim 👋
 
-Prazer, me chamo Bernardo Nogueira, tenho 22 anos, sou Brasileiro e almejo me tornar um Full Stack, graduando em Licenciatura em Matemática pelo Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA). Formando em Análise e Desenvolvimento de Sistemas pelo Centro Universitário UniFatecie. Atuo como Técnico de informática na Fundação Estatal Saúde da Família. Tecnólogo em Gastronomia, capacitado pela Universidade Salvador - UNIFACS (2022).
+Prazer, Bernardo Nogueira, 22 anos, brasileiro, busca se tornar um Full Stack. 📚 Graduando em Licenciatura em Matemática pelo IFBA. 🎓 Formado em Análise e Desenvolvimento de Sistemas pela UniFatecie. 💻 Atua como Tecnólogo em Gestão de Sistema de Informação na Fundação Estatal Saúde da Família. 🍽️ Tecnólogo em Gastronomia pela UNIFACS (2022).
 
 #### 📣 Quer entrar em contato comigo?
 
