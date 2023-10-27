@@ -8,7 +8,7 @@ Trabalhando como Tecnólogo em Gestão de Sistema de Informação para Sistema A
     
 - 🌱 Atualmente estou cursando **Licenciatura em Matemática pelo IFBA.**.
 
-- ⚡ Curiosidade: Sou tenho Tecnólogo em Gastronomia pela **UNIFACS** (2022) e Formado em Análise e Desenvolvimento de Sistemas pela **UniFatecie**.
+- ⚡ Curiosidade: Sou tenho Tecnólogo em Gastronomia pela **UNIFACS** e Formado em Análise e Desenvolvimento de Sistemas pela **UniFatecie**.
     <details>
     <summary>Publicações</summary>
         
