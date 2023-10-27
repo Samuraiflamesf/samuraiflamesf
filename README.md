@@ -16,7 +16,8 @@ Trabalhando como Tecnólogo em Gestão de Sistema de Informação para Sistema A
     | :---: | :---: | :---: | :---: | :---: |
     | Carregador portátil à base de energia solar | Artigo em jornal| 2016| Semana de Ciência e Tecnologia da escola |[Link para o artigo](https://www.correio24horas.com.br/tecnologia/estudantes-de-salvador-desenvolvem-carregador-portatil-a-base-de-energia-solar-conheca-0916) |
     | Carregador portátil à base de energia solar | Artigo em site| 2016| Semana de Ciência e Tecnologia da escola |[Link para o artigo](https://ciberia.com.br/estudantes-de-escola-publica-desenvolvem-carregador-portatil-a-base-de-energia-solar-1716) |
-  | Sistema de Armazenamento (NAS) para CIMEB | Apresentação de Seminário| 2022 | Seminário de Projetos de Melhorias do Projeto Primeiro Emprego (PPE): Impactos em Toda Bahia |[Link para o artigo](https://www.bahia.ba.gov.br/2022/11/noticias/primeiro-emprego/projeto-primeiro-emprego-realiza-seminario-com-sugestoes-de-melhorias-propostas-por-beneficiarios/) |
+   | Adjusted House: Manutenção em Residências | Apresentação de Poster| 2019| Seminários Territoriais Saberes e Fazeres |  |
+  | Sistema de Armazenamento (NAS) para CIMEB | Apresentação de Poster| 2022 | Seminário de Projetos de Melhorias do Projeto Primeiro Emprego (PPE): Impactos em Toda Bahia |[Link para o artigo](https://www.bahia.ba.gov.br/2022/11/noticias/primeiro-emprego/projeto-primeiro-emprego-realiza-seminario-com-sugestoes-de-melhorias-propostas-por-beneficiarios/) |
   
     
     </details>
