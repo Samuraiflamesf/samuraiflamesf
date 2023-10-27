@@ -1,11 +1,25 @@
-# Hello, Sou Bernardo Nogueira!
+# Hello
+### Prazer, Bernardo Nogueira! 👋
 
-## Sobre mim 👋
+- 🐝 22 anos, brasileiro, Maker desde 2014.
 
-Prazer, Bernardo Nogueira, 22 anos, brasileiro, busca se tornar um Full Stack. 📚 Graduando em Licenciatura em Matemática pelo IFBA. 🎓 Formado em Análise e Desenvolvimento de Sistemas pela UniFatecie. 💻 Atua como Tecnólogo em Gestão de Sistema de Informação na Fundação Estatal Saúde da Família. 🍽️ Tecnólogo em Gastronomia pela UNIFACS (2022).
+- 🔭 Atualmente estou trabalhando na **FESF/SESAB**.
+Trabalhando como Tecnólogo em Gestão de Sistema de Informação para Sistema AFSESAB.
+    
+- 🌱 Atualmente estou cursando **Licenciatura em Matemática pelo IFBA.**.
+
+- ⚡ Curiosidade: Sou tenho Tecnólogo em Gastronomia pela **UNIFACS** (2022) 🍽️ e Formado em Análise e Desenvolvimento de Sistemas pela **UniFatecie**.
+    <details>
+    <summary>Publicações</summary>
+        
+    | Tópico | Tipo | Ano | Simpósio | Local/Link | 
+    | :---: | :---: | :---: | :---: | :---: |
+    | Carregador portátil à base de energia solar | Artigo em jornal| 2016| Semana de Ciência e Tecnologia da escola |[Link para o artigo](https://www.correio24horas.com.br/tecnologia/estudantes-de-salvador-desenvolvem-carregador-portatil-a-base-de-energia-solar-conheca-0916) |
+    | Carregador portátil à base de energia solar | Artigo em site| 2016| Semana de Ciência e Tecnologia da escola |[Link para o artigo](https://ciberia.com.br/estudantes-de-escola-publica-desenvolvem-carregador-portatil-a-base-de-energia-solar-1716) |
+    
+    </details>
 
 #### 📣 Quer entrar em contato comigo?
-
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bernardo.nogueira8/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-nogueira8/)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCqcrZPdAU0NOdqJu4OAyt9A)
