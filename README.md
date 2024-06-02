@@ -1,7 +1,7 @@
 # Hello
 ### Prazer, Bernardo Nogueira! 👋
 
-- 🐝 22 anos, brasileiro, Maker desde 2014.
+- 🐝 23 anos, brasileiro, Maker desde 2014.
 
 - 🔭 Atualmente estou trabalhando na **FESF/SESAB**.
 Trabalhando como Tecnólogo em Gestão de Sistema de Informação para Sistema AFSESAB.
