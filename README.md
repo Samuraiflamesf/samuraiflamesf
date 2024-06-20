@@ -29,11 +29,11 @@ Trabalhando como Tecnólogo em Gestão de Sistema de Informação para Sistema A
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuraiflamesf@gmail.com)
 [![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/SamuraiFlameSF)
 ## Tecnologias e Ferramentas 🛠️
-[![Skills](https://skillicons.dev/icons?i=vscode,html,css,js,bootstrap,python&theme=dark)](https://skillicons.dev)
 [![Skills](https://skillicons.dev/icons?i=latex&theme=light)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=vscode,html,css,js,bootstrap,php&theme=dark)](https://skillicons.dev)
 
 ## Em Aprendizado 🛠️
-[![Skills](https://skillicons.dev/icons?i=r,php,mysql,tailwind,laravel&theme=light)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=anaconda,python,mysql,&theme=light)](https://skillicons.dev)
 
 ## GitHub Status ✨
 <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuraiflamesf&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=5" /><img height="200px" src="https://github-readme-stats.vercel.app/api/wakatime?username=samuraiflamesf" />
