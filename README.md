@@ -30,7 +30,7 @@
 [![Skills](https://skillicons.dev/icons?i=html,css,js&theme=dark)](https://skillicons.dev)
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bootstrap,php,tailwind,latex)
 ## Em Aprendizado 🛠️
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pbi,python,r)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,r,pbi)
 
 
 ## GitHub Status ✨
