@@ -28,11 +28,9 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bernardo.nogueira8/)
 ## Tecnologias e Ferramentas 🛠️
 [![Skills](https://skillicons.dev/icons?i=html,css,js&theme=dark)](https://skillicons.dev)
-[![Skills](https://skillicons.dev/icons?i=latex&theme=light)](https://skillicons.dev)
-[![Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,php&theme=dark)](https://skillicons.dev)
-![PowerBI]()
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bootstrap,php,tailwind,latex)
 ## Em Aprendizado 🛠️
-[![Skills](https://skillicons.dev/icons?i=python,r,&theme=light)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pbi,python,r)
 
 
 ## GitHub Status ✨
