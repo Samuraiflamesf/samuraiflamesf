@@ -5,8 +5,10 @@
 
 - 🔭 Atualmente estou trabalhando na **FESF/SESAB**.
 Trabalhando como Tecnólogo em Gestão de Sistema de Informação para Sistema AFSESAB.
-    
+  
 - 🌱 Atualmente estou cursando **Licenciatura em Matemática pelo IFBA.**.
+
+- 🎲 Cursando pós-graduação em **Ciência de Dados** na PUC.
 
 - ⚡ Curiosidade: Sou tenho Tecnólogo em Gastronomia pela **UNIFACS** e Formado em Análise e Desenvolvimento de Sistemas pela **UniFatecie**.
     <details>
