@@ -27,10 +27,9 @@
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCqcrZPdAU0NOdqJu4OAyt9A)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bernardo.nogueira8/)
 ## Tecnologias e Ferramentas 🛠️
-[![Skills](https://skillicons.dev/icons?i=html,css,js&theme=dark)](https://skillicons.dev)
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bootstrap,php,tailwind,latex)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,php,tailwind,latex)
 ## Em Aprendizado 🛠️
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,r,pbi)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,r,jamovi,pbi)
 
 
 ## GitHub Status ✨
