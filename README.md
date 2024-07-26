@@ -1,6 +1,4 @@
-# Hello
-### Prazer, Bernardo Nogueira! 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Taviraj&weight=200&size=32&pause=1000&color=F7F7F7&vCenter=true&multiline=true&repeat=false&random=true&width=435&lines=Prazer%2C+Bernardo+Nogueira!)](https://git.io/typing-svg)
 - 🐝 23 anos, brasileiro, Maker desde 2014.
 
 - 🌱 Atualmente estou cursando **Licenciatura em Matemática pelo IFBA** e pós-graduação em **Ciência de Dados** na PUC Minas.
