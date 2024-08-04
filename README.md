@@ -3,11 +3,18 @@
 
 - 🌱 Atualmente estou cursando **Licenciatura em Matemática pelo IFBA** e pós-graduação em **Ciência de Dados** na PUC Minas.
 
-- 🔭 Atualmente estou trabalhando na **FESF/SESAB**. Trabalhando como Tecnólogo em Gestão de Sistema de Informação para Sistema AFSESAB.
+- 🔭 Atualmente estou trabalhando na **FESF/SESAB**. Trabalhando como Tecnólogo em Gestão de Sistema de Informação.
 
 - ⚡ Curiosidade sobre mim:
-    - *Tecnólogo em Gastronomia* pela **UNIFACS**;
-    - *Tecnólogo em Análise e Desenvolvimento de Sistemas* pela **UniFatecie**.
+    - *Tecnólogo em Análise e Desenvolvimento de Sistemas* pela **UniFatecie**;
+    - *Tecnólogo em Gastronomia* pela **UNIFACS**.
+
+#### 📣 Quer entrar em contato comigo?
+[![Site Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://samuraiflamesf.github.io/CofreObsidian/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-nogueira8/)
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCqcrZPdAU0NOdqJu4OAyt9A)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bernardo.nogueira8/)
+
 <details>
 <summary>Publicações</summary>
     
@@ -20,10 +27,6 @@
 
 </details>
 
-#### 📣 Quer entrar em contato comigo?
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-nogueira8/)
-[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCqcrZPdAU0NOdqJu4OAyt9A)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bernardo.nogueira8/)
 ## Tecnologias e Ferramentas 🛠️
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,php,tailwind,latex)
 ## Em Aprendizado 🛠️
@@ -31,8 +34,18 @@
 
 
 ## GitHub Status ✨
-<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuraiflamesf&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=5" /><img height="200px" src="https://github-readme-stats.vercel.app/api/wakatime?username=samuraiflamesf" />
+  
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=samuraiflamesf&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
 
+---
 
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=samuraiflamesf">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuraiflamesf&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
 
-
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=samuraiflamesf&style=for-the-badge&color=orange" alt=""/>
+</div>
