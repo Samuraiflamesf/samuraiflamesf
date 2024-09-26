@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou trabalhando na **FESF/SESAB**. Trabalhando como Tecnólogo em Gestão de Sistema de Informação.
 
-- 🌱 Atualmente estou cursando **Licenciatura em Matemática** pelo IFBA e pós-graduação em **Ciência de Dados** na PUC Minas.
+- 🌱 Estou cursando **Licenciatura em Matemática** pelo IFBA e uma pós-graduação em **Ciência de Dados** pela PUC Minas.
 
 - ⚡ Graduações:
     - *Tecnólogo em Análise e Desenvolvimento de Sistemas* pela **UniFatecie**;
