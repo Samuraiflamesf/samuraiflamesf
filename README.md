@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bernardo.nogueira8/)
 ![Views](https://komarev.com/ghpvc/?username=bernardonogueira8&style=for-the-badge&color=orange)
 
-Atualmente estou trabalhando na **DASF** - Diretora de Assistência Farmacêutica, como Tecnólogo em Gestão de Sistema de Informação. Meu conjunto de habilidades inclui Python, SQL, Visualização de Dados com Power BI e tecnologias como Large Language Models(LLMs).
+Atuação estratégica na Diretoria de Assistência Farmacêutica (DASF), em inteligência de negócio e indicadores de performance. Meu conjunto de habilidades inclui Python, Power BI, SQL, Oracle e tecnologias como Large Language Models(LLMs).
 
 ### Educação
 - Pós em Saúde Digital no Sistema Único de Saúde - Universidade Federal do Maranhão (UFMA) - Brasil
@@ -16,7 +16,7 @@ Atualmente estou trabalhando na **DASF** - Diretora de Assistência Farmacêutic
 - Gastronomia - Universidade de Salvador (UNIFACS) - Brasil
 
 ### Experiencia
-- Tecnólogo em Gestão de Sistema de Informação - FESFSUS - junho 2023 / presente
+- Analista de Dados & Requisitos - FESFSUS - junho 2023 / presente
 - Programa Institucional de Bolsas de Iniciação à Docência - CPM/IFBA - novembro 2024 / presente
 - Técnico de Tecnologia da Informação - FESFSUS - maio 2021 / maio 2023
 
