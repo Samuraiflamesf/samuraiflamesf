@@ -1,5 +1,6 @@
 # Bernardo Nogueira da Silva 👨‍💻
 ## Pós em Ciência de Dados Aplicada à Saúde
+[![Orcid Badge](https://img.shields.io/badge/Orcid-d4e7a1?style=for-the-badge&logo=linkedin&logoColor=black)](https://orcid.org/0009-0002-5664-1619)
 [![Lattes Badge](https://img.shields.io/badge/Lattes-fedcba?style=for-the-badge&logo=linkedin&logoColor=white)](http://lattes.cnpq.br/2821332349062913)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardonogueira8/)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge)](https://www.youtube.com/channel/UC_Zyyr27x67UaGcHS55rutQ)
